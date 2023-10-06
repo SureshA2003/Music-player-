@@ -1,13 +1,13 @@
 # Music-player-
 A music player using JavaScript is a web application designed to play audio files, typically a simple music player using JavaScript is a basic web application that allows users to play and pause audio tracks.
 
-Features....
+# Features....
 
   Play and pause music tracks.
   Display the current song title and artist.
   Previous and next track buttons.
 
-Usage...
+# Usage...
 
   To use the music player, follow these steps:
 
@@ -53,7 +53,7 @@ javascript (json):
     }
 ]
 
-Installation.....
+# Installation.....
     To run the music player locally, follow these steps:
 
        Clone the repository to your local machine using Git:
