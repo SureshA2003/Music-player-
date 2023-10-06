@@ -59,8 +59,10 @@ javascript (json):
        Clone the repository to your local machine using Git:
        
          git clone https://github.com/your-username/music-player.git
+# preview
 
 
+<img width="960" alt="Screenshot 2023-10-06 135826" src="https://github.com/SureshA2003/Music-player-using-html-css-js/assets/124371487/69af7fa8-00a4-4f4e-a4c3-9e2b478834ee">
 
 
 
